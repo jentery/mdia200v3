@@ -46,7 +46,7 @@ Three handouts: "Audio," "Podcasts," and "Ways of Listening"
 
 ## Th 10 October: Media, Part 5
 
-Three handouts: "Video," "Animation," and "Ways of Watching"
+Three handouts: "Video," "Games," and "Ways of Watching"
 
 ## M 14 October: Thanksgiving 
 
