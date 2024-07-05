@@ -46,7 +46,7 @@ Three handouts: "Audio," "Podcasts," and "Ways of Listening"
 
 ## Th 10 October: Media, Part 5
 
-Three handouts: "Video," "Video Games," and "Ways of Watching"
+Three handouts: "Video," "Animation," and "Ways of Watching"
 
 ## M 14 October: Thanksgiving 
 
@@ -54,7 +54,7 @@ No class today
 
 ## Th 17 October: Media, Part 6 
 
-Three handouts: "Interfaces," "HUDs," and "Ways of Interacting"
+Three handouts: "Interfaces," "Video Games," and "Ways of Interacting"
 
 ## M 21 October: Methodologies, Part 1
 
