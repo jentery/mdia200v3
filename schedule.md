@@ -4,7 +4,7 @@ Primary sources and case studies are to be determined. Secondary sources, includ
 
 ## Th 5 September: Hello! 
 
-One handout: "The Content Industry" 
+One handout: "The Content Industry" (our "problematic" for the course) 
 
 ## M 9 September: Communication, Part 1
 
