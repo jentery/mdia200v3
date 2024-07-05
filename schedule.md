@@ -1,6 +1,6 @@
 # Draft Schedule for MDIA 200 (Fall 2024) 
 
-Primary sources and case studies to be determined. 
+Primary sources and case studies are to be determined. Secondary sources, including works of Media Studies criticism, are integrated with the handouts and referenced rather than assigned. 
 
 ## Th 5 September: Hello! 
 
@@ -26,7 +26,7 @@ Two handouts: "Miscommunication" and "Noise in Communication"
 
 Three handouts: "Medium Specificity," "Media Convergence," and "Understanding Media" (transduction, trust, standardization, emergence)
 
-## R 26 September: Media, Part 2 
+## Th 26 September: Media, Part 2 
 
 Three handouts: "Images," "Comics," and "Ways of Seeing"
 
@@ -113,3 +113,7 @@ One handout: "Preservation" (collection, migration, emulation)
 One handout: "Media Studies: A Review"
 
 Worksheet 4 due (on Methodologies, Parts 7-10)
+
+## F 13 December: Final 
+
+Final reflection due 
