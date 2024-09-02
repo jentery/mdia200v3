@@ -59,3 +59,25 @@ My name is Jentery Sayers (he / him). I skip a syllable and say it in two: "JEN-
 I spend 14.68% of the day looking for my glasses, and I enjoy writing about games and media. I grew up in Richmond, Virginia and went to Virginia Commonwealth University for my BA and BS degrees. Then I moved to Seattle, where I received an MA and PhD in English from the University of Washington. I now teach courses for UVic Media Studies and English, and I direct the Media Studies program. I like to play TTRPGs, drums, guitar, and soccer in my spare time. I also do my best to maintain a [portfolio](https://jntry.work/) of my work. 
 
 You can email me at [jentery@uvic.ca](mailto:jentery@uvic.ca) or find me in Clearihue D331.
+
+# Materials 
+
+You do *not* need to purchase a textbook or any primary sources for this course, but you will need access to a computer, the internet (including [Brightspace](https://bright.uvic.ca/), a camera, and a microphone. 
+
+*Handouts*: I produce my own handouts for this course and will circulate them in Brightspace each week. They will include concise overviews of key themes and terms to help you prepare for upcoming class sessions. You can think of them as an alternative to a textbook. 
+
+*Slide Decks*: I will create an HTML slide deck for almost every class session and link to it in Brightspace immediately before class begins. This way, you can access my slides during and after class. 
+
+*Primary Sources*: My slide decks will frequently contain primary sources or links to them. We'll discuss these primary sources in class and, in the process, apply what you're learning from the weekly handouts. Examples of primary sources we'll study this term include the browser game, [*Hair Nah*](https://www.momopixel.com/hair-nah) (2017), by Momo Pixel; the comic, ["Translated, From the Japanese"](https://drawnandquarterly.com/books/killing-and-dying/) (2015), by Adrian Tomine; the stop-motion animation, [*Biidaaban (The Dawn Comes)*](https://www.spottedfawnproductions.com/biidaaban/) (2018), by Amanda Strong, Leanne Betasamosake Simpson, and Bracken Hanuse Corlett; and the photo story, ["Fighting for Food Sovereignty Amid Worsening Wildfires"](https://thenarwhal.ca/indigenous-food-sovereignty-wildfires-bc/) (2023), by Steph Kwetásel'wet Wood. 
+
+*Content Warnings*: I'll include content warnings for materials, including primary sources, before I share or screen them in class. 
+
+*Recordings*: I do not plan to record our class sessions; however, you are welcome to record audio of class for private study and note-taking.
+ 
+*Brightspace*: I'll use the course Brightspace to: 
+
+* Circulate a class announcement each *Monday* to help you plan for what's next,  
+* Share weekly handouts, my slides, and any primary sources we study in class,  
+* Point you to resources available online, 
+* Accept all your assignments (please don't submit anything to me by email), and
+* Comment on those assignments and mark them.  
