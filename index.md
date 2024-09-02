@@ -129,11 +129,11 @@ After class, please read:
 1. The course outline, including the schedule and policies, and 
 2. The handout titled, "The Content Industry."
 
+*Please email me if you're on the waitlist for this course and have questions or concerns.* 
+
 ## MODULE 1: COMMUNICATION
 
 This module begins on Monday, September 9th and ends on Thursday, September 19th. 
-
-*Please email me if you're on the waitlist for this course and have questions or concerns.* 
 
 ## M 9 September: Communication, Part 1
 
