@@ -110,4 +110,233 @@ The most important thing to know about this course is that *I'll opt for care in
 
 I suggest dedicating *3 to 5 hours* to MDIA 200 each week in addition to our weekly meetings on Monday and Thursday. Of course, 3 to 5 hours per week is only a guideline. You may find that you need more or less time depending on the activity, your preferences, and your familiarity with the work and materials involved.
 
-I will give you some time during class to draft responses to the worksheets; however, you will need more time (between classes) to develop and refine your work, hence the recommended 3 to 5 hours per week.  
+I will give you some time during class to draft responses to the worksheets; however, you will need more time (between classes) to develop and refine your work, hence the recommended 3 to 5 hours per week. 
+
+# Schedule
+
+Here's the schedule for the term. It's subject to change. In fact, I'm 94.37% certain it will change. I will use a Brightspace announcement to notify you at least two weeks in advance of those changes, and I will never use schedule changes to increase your workload (e.g., add an assignment or reading). 
+
+*All materials for this course are available in Brightspace. Please study them before the date they're assigned.* This way, we can make the most of our time together in class. 
+
+All meetings are scheduled to occur in person (face-to-face). If you miss a class session, or you simply want a review, then I recommend checking Brightspace to view the slide deck for that session and touching base with a peer to see if they're willing to share their notes. 
+
+## Th 5 September: Hello! 
+
+We'll introduce ourselves, and I'll provide an overview of the course.
+
+After class, please read: 
+
+1. The course outline, including the schedule and policies, and 
+2. The handout titled, "The Content Industry."
+
+## MODULE 1: COMMUNICATION
+
+This module begins on Monday, September 9th and ends on Thursday, September 19th. 
+
+*Please email me if you're on the waitlist for this course and have questions or concerns.* 
+
+## M 9 September: Communication, Part 1
+
+Before class, please read the handouts titled: 
+
+1. "Acts of Communication" and
+2. "Senses of Communication."
+
+*Please email me if you have any trouble accessing my slide decks in Brightspace.*
+
+## Th 12 September: Communication, Part 2 
+
+Before class, please read the handouts titled: 
+
+1. "Means of Communication" and  
+2. "Levels of Communication."
+
+*Please email me if you have any questions or concerns about Worksheet 1.*
+
+## M 16 September: Communication, Part 3 
+
+Before class, please read the handouts titled: 
+
+1. "Forms of Communication" and
+2. "Models of Communication." 
+
+*Tuesday, September 17th is the last day for a 100% reduction of tuition fees for standard first-term and full-year courses.*
+
+## Th 19 September: Communication, Part 4 
+
+Before class, please read the handout titled, "Miscommunication."
+
+*Today is the last session covered by Worksheet 1, which is due by Thursday, September 26th at 10am.* 
+
+## MODULE 2: MEDIA
+
+This module begins on Monday, September 23rd and ends on Thursday, October 17th. 
+
+## M 23 September: Media, Part 1 
+
+Before class, please read the handouts titled: 
+
+1. "Medium Specificity," 
+2. "Media Convergence," and 
+3. "Understanding Media." 
+
+*Please let me know if you've any questions or concerns about registering for a workshop in UVic Libraries.*
+
+## Th 26 September: Media, Part 2 
+
+Before class, please read the handouts titled: 
+
+1. "Images," 
+2. "Comics," and TW
+3. "Ways of Seeing."
+
+*Worksheet 1 is due today by 10am.* 
+
+## M 30 September: National Day for Truth and Reconciliation
+
+No class today.
+
+*Today is the last day to pay first-term fees without penalty.*
+
+## Th 3 October: Media, Part 3 
+
+Before class, please read the handouts titled: 
+
+1. "Text," 
+2. "Typography," and 
+3. "Ways of Reading."
+
+## M 7 October: Media, Part 4 
+
+Before class, please read the handouts titled: 
+
+1. "Audio," 
+2. "Podcasts," and 
+3. "Ways of Listening."
+
+*Tuesday, October 8th is the last day for a 50% reduction of tuition fees for standard courses.*
+
+## Th 10 October: Media, Part 5
+
+Before class, please read the handouts titled: 
+
+1. "Video," 
+2. "Animation," and 
+3. "Ways of Watching."
+
+*Please email me if you have any questions or concerns about Worksheet 2.*
+
+## M 14 October: Thanksgiving 
+
+No class today.
+
+## Th 17 October: Media, Part 6 
+
+Before class, please read the handouts titled:  
+
+1. "Interfaces," 
+2. "Video Games," and 
+3. "Ways of Interacting."
+
+*Today is the last session covered by Worksheet 2, which is due by Monday, October 21st at 10am.*
+
+## MODULE 3: METHODOLOGIES 
+
+This module begins on Monday, October 21st and ends on Thursday, November 28th.
+
+## M 21 October: Methodologies, Part 1
+
+Before class, please read the handout titled, "Effects."
+
+Effects will address affect, cognition, and behaviour. 
+
+*Worksheet 2 is due today by 10am.* 
+
+## Th 24 October: Methodologies, Part 2
+
+Before class, please read the handout titled, "Culture."
+
+Culture will address rituals, values, and community. 
+
+## M 28 October: Methodologies, Part 3
+
+Before class, please read the handout titled, "Aesthetics."
+
+Aesthetics will address art, design, and experience. 
+
+## Th 31 October: Methodologies, Part 4
+
+Before class, please read the handout titled, "Meaning."
+
+Meaning will address semiotics, encoding, and decoding. 
+
+*Today is the last day to withdraw from first-term courses without penalty of failure.*
+
+## M 4 November: Methodologies, Part 5
+
+Before class, please read the handout titled, "Persuasion."
+
+Persuasion will address rhetoric, propaganda, and disinformation. 
+
+*Please email me if you have any questions or concerns about Worksheet 3.*
+
+## Th 7 November: Methodologies, Part 6 
+
+Before class, please read the handout titled, "Representation." 
+
+Representation will address power, identity, and intersectionality. 
+
+*Today is the last session covered by Worksheet 3, which is due by Thursday, November 14th at 10am.*
+
+## M 11 November: Reading Break 
+
+No class today.
+
+## Th 14 November: Conferences 
+
+No class today, but please schedule a time to meet with me if you've questions or concerns about the course. 
+
+*Worksheet 3 is due today by 10am.* 
+
+## M 18 November: Methodologies, Part 7 
+
+Before class, please read the handout titled, "Narrative." 
+
+Narrative will address genre, story, and plot. 
+
+## Th 21 November: Methodologies, Part 8 
+
+Before class, please read the handout titled, "Ownership."
+
+Ownership will address monopolies, regulation, and public / private media. 
+
+*Please email me if you have any questions or concerns about Worksheet 4.*
+
+## M 25 November: Methodologies, Part 9 
+
+Before class, please read the handout titled, "Participation." 
+
+Participation will address voice, play, and fandom. 
+
+*Please email me if you have any questions or concerns about the Portfolio.* 
+
+## Th 28 November: Methodologies, Part 10
+
+Before class, please read the handout titled, "Preservation."
+
+Preservation will address collection, migration, emulation.
+
+*Today is the last session covered by Worksheet 4, which is due by Monday, December 2nd at 10am.*
+
+## M 2 December: Last Session!
+
+Before class, please read the handout titled, "Media Studies: A Review"
+
+*Worksheet 4 is due today by 10am.* 
+
+*Wednesday, December 4th is National Day of Remembrance and Action on Violence Against Women.*
+
+## F 13 December: Portfolio 
+
+Please submit your portfolio by 10am today. I hope you've a wonderful winter break! 
+
