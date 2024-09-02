@@ -50,5 +50,5 @@ I designed this course for you to:
 4. Respond directly to classroom activities and lectures about media. This means you'll complete four worksheets to demonstrate what you're learning.  
 5. Reflect on your learning and communicate its applications to the study and production of media today. This reflection will take the form of a portfolio, which will be your final project in this course. 
 
-I will assume you've no experience in Media Studies, and I will focus on critical approaches to media as they apply to content production. I will not teach film. For that, I recommend [Film Studies](https://www.uvic.ca/finearts/film). I also won't technical or professional communication. For that, I recommend [Professional Communication](https://www.uvic.ca/humanities/english/professionalcommunication/).
+I will assume you've no experience in Media Studies, and I will focus on critical approaches to media as they apply to content production. I will not teach film. For that, I recommend [Film Studies](https://www.uvic.ca/finearts/film). I also won't teach technical or professional communication. For that, I recommend [Professional Communication](https://www.uvic.ca/humanities/english/professionalcommunication/).
 
