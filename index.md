@@ -38,4 +38,4 @@ I've learned a lot about territory acknowledgements from the Native Students Uni
 
 This course "surveys the cultural and material roles media play around the world in the 21st century. Emphasis on building a common vocabulary for studying media as well as understanding how audio, images, video, and text mediate people’s relation to culture." For more information, see ["MDIA200 - Media in the 21st Century"](https://www.uvic.ca/calendar/future/undergrad/index.php#/courses/HyVj9LZJi?bc=true&bcCurrent=MDIA200%20-%20Media%20in%20the%2021st%20Century&bcGroup=Media%20Studies%20(MDIA)&bcItemType=courses) in UVic's academic calendar. 
 
-It counts toward UVic's [Media Studies](https://www.uvic.ca/humanities/media-studies/program/index.php) certificate, which requires 10.5 units of coursework. 
+The course counts toward UVic's new [Media Studies](https://www.uvic.ca/humanities/media-studies/program/index.php) certificate, which requires 10.5 units of coursework. 
