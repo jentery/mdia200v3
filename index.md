@@ -64,7 +64,7 @@ You can email me at [jentery@uvic.ca](mailto:jentery@uvic.ca) or find me in Clea
 
 You do *not* need to purchase a textbook or any primary sources for this course, but you will need access to a computer, the internet (including [Brightspace](https://bright.uvic.ca/)), a camera, and a microphone. 
 
-*Handouts*: I produce my own handouts for this course and will circulate them in Brightspace each week. They will include concise overviews of key themes and terms to help you prepare for upcoming class sessions. You can think of them as an alternative to a textbook. 
+*Handouts*: I produce my own handouts for this course and will circulate them in Brightspace each week. They include concise overviews of key themes and terms to help you prepare for upcoming class sessions. You can think of them as an alternative to a MDIA 200 textbook. 
 
 *Slide Decks*: I will create an HTML slide deck for almost every class session and link to it in Brightspace immediately before class begins. This way, you can access my slides during and after class. 
 
