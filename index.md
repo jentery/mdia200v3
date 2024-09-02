@@ -80,4 +80,26 @@ You do *not* need to purchase a textbook or any primary sources for this course,
 * Share weekly handouts, my slides, and any primary sources we study in class,  
 * Point you to resources available online, 
 * Accept all your assignments (please don't submit anything to me by email), and
-* Comment on those assignments and mark them.  
+* Comment on those assignments and mark them.
+
+# Assignments
+
+There are no exams, quizzes, presentations, group projects, or participation marks in this course.
+
+I am asking you to complete five assignments this term. 
+
+1. **[Worksheet 1](https://jentery.github.io/mdia200v3/worksheet1.html)**: 20% of your final grade (due by Thursday, September 26th at 10am). 
+2. **[Worksheet 2](https://jentery.github.io/mdia200v3/worksheet2.html)**: 20% of your final grade (due by Monday, October 21st at 10am). 
+3. **[Worksheet 3](https://jentery.github.io/mdia200v3/worksheet3.html)**: 20% of your final grade (due by Thursday, November 14th at 10am).
+4. **[Worksheet 4](https://jentery.github.io/mdia200v3/worksheet4.html)**: 15% of your final grade (due by Monday, December 2nd at 10am). 
+5. **[Portfolio](https://jentery.github.io/mdia200v3/portfolio.html)**: 25% of your final grade (due by Friday, December 13th at 10am). 
+
+*Worksheets*: The worksheets will ask you to apply what you're learning in class through a combination of media (audio, images, text, and video). A worksheet will never contain more than five prompts, and I will encourage you to use class time to draft your brief responses to them. I will circulate each worksheet well before it's due, and I'll review each prompt in class to ensure it's clear. 
+
+*Portfolio*: You'll conclude MDIA 200 by producing a portfolio that documents what you learned in this course, reflects on that learning, and communicates its significance to someone in particular (e.g., a professor, student, friend, or family member).  
+
+*Brightspace*: Please use Brightspace to submit all your work this term. You do not need to purchase any software to use Brightspace, but you will need your UVic NetLink ID, access to the internet, and a computer. I cannot accept assignments by email. Thank you for understanding.  
+
+*Feedback*: I will provide brief and focused feedback on worksheets according to their grading rubrics. Please email me or schedule an appointment (F2F or Zoom) to discuss my feedback. I respond to emails Monday through Friday, 9am - 5pm, excluding holidays. Thanks in advance for your patience. 
+
+*Workshop*: Worksheet 4 will ask you to register for a workshop in UVic Libraries, attend it, and document what you did and learned. I will circulate a signup sheet for the workshops in September. 
