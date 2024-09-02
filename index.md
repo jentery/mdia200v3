@@ -56,6 +56,6 @@ I will assume you've no experience in Media Studies, and I will focus on critica
 
 My name is Jentery Sayers (he / him). I skip a syllable and say it in two: "JEN-tree." You can call me Jentery, Doctor Sayers, or Professor Sayers. 
 
-I spend 14.68% of the day looking for my glasses, and I enjoy writing about games and media. I grew up in Richmond, Virginia and went to Virginia Commonwealth University for my BA and BS degrees. Then I moved to Seattle, where I received an MA and PhD in English from the University of Washington. I now teach courses for UVic Media Studies and English, and I direct the Media Studies program. I like to play TTRPGs, drums, guitar, and soccer in my spare time. I also do my best to maintain an [online portfolio](https://jntry.work/) of my work. 
+I spend 14.68% of the day looking for my glasses, and I enjoy writing about games and media. I grew up in Richmond, Virginia and went to Virginia Commonwealth University for my BA and BS degrees. Then I moved to Seattle, where I received an MA and PhD in English from the University of Washington. I now teach courses for UVic Media Studies and English, and I direct the Media Studies program. I like to play TTRPGs, drums, guitar, and soccer in my spare time. I also do my best to maintain a [portfolio](https://jntry.work/) of my work. 
 
 You can email me at [jentery@uvic.ca](mailto:jentery@uvic.ca) or find me in Clearihue D331.
