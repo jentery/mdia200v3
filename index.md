@@ -102,4 +102,12 @@ I am asking you to complete five assignments this term.
 
 *Feedback*: I will provide brief and focused feedback on worksheets according to their grading rubrics. Please email me or schedule an appointment (F2F or Zoom) to discuss my feedback. I respond to emails Monday through Friday, 9am - 5pm, excluding holidays. Thanks in advance for your patience. 
 
-*Workshop*: Worksheet 4 will ask you to register for a workshop in UVic Libraries, attend it, and document what you did and learned. I will circulate a signup sheet for the workshops in September. 
+*Workshop*: Worksheet 4 will ask you to register for a workshop in UVic Libraries, attend it, and document what you did and learned. I will circulate a signup sheet for the workshops in September.
+
+# Workload
+
+The most important thing to know about this course is that *I'll opt for care in every instance.* If the workload becomes too much, or we're juggling more than we should, then we'll cut material. I planned for the maximum in advance, under the assumption we won't get to everything. And that's totally fine.
+
+I suggest dedicating *3 to 5 hours* to MDIA 200 each week in addition to our weekly meetings on Monday and Thursday. Of course, 3 to 5 hours per week is only a guideline. You may find that you need more or less time depending on the activity, your preferences, and your familiarity with the work and materials involved.
+
+I will give you some time during class to draft responses to the worksheets; however, you will need more time (between classes) to develop and refine your work, hence the recommended 3 to 5 hours per week.  
