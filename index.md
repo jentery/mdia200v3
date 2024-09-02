@@ -39,3 +39,16 @@ I've learned a lot about territory acknowledgements from the Native Students Uni
 This course "surveys the cultural and material roles media play around the world in the 21st century. Emphasis on building a common vocabulary for studying media as well as understanding how audio, images, video, and text mediate people’s relation to culture." For more information, see ["MDIA200 - Media in the 21st Century"](https://www.uvic.ca/calendar/future/undergrad/index.php#/courses/HyVj9LZJi?bc=true&bcCurrent=MDIA200%20-%20Media%20in%20the%2021st%20Century&bcGroup=Media%20Studies%20(MDIA)&bcItemType=courses) in UVic's academic calendar. 
 
 The course counts toward UVic's new [Media Studies](https://www.uvic.ca/humanities/media-studies/program/index.php) certificate, which requires 10.5 units of coursework. 
+
+# Goals
+
+I designed this course for you to: 
+
+1. Build a vocabulary for understanding media. This means you'll develop a language for attending to the particulars of audio, images, text, video, and interfaces. 
+2. Learn a variety of techniques for engaging media today. This means we'll experiment with different approaches to media in the 21st century. 
+3. Account for context and culture in the analysis of media across the globe. This means we'll consider how, where, when, by whom, for whom, and under what assumptions media are made, interpreted, and circulated. 
+4. Respond regularly to classroom activities and lectures about media. This means you'll complete four worksheets to demonstrate what you're learning.  
+5. Reflect on your learning and communicate its applications to the study and production of media today. This reflection will take the form of a portfolio, which will be your final project in this course. 
+
+I will assume you've no experience in Media Studies, and I will focus on critical approaches to media as they apply to content production. I will not teach film. For that, I recommend [Film Studies](https://www.uvic.ca/finearts/film). I also won't technical or professional communication. For that, I recommend [Professional Communication](https://www.uvic.ca/humanities/english/professionalcommunication/).
+
