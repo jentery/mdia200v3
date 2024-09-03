@@ -388,7 +388,7 @@ The following student groups may be relevant to your life as a student here at U
 
 # Policies 
 
-Here are the policies for this course. Please let me know if anything is unclear, ignorant, or mistaken. I'll correct it. 
+Here are the policies for this course alongside several UVic policies. Please let me know if anything is unclear, ignorant, or mistaken. I'll correct it. 
 
 ### Media Studies Certificate 
 
@@ -406,7 +406,7 @@ Two of the four worksheets as well as the portfolio are required to pass this co
 
 I will use UVic's [official grading system](https://www.uvic.ca/calendar/future/undergrad/index.php#/policy/S1AAgoGuV?bc=true&bcCurrent=14%20-%20Grading&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies) to produce rubrics to assess your work. I will not post marks publicly or outside my office, and I do not use plagiarism or AI detection software.
 
-All assignments should be submitted via Brightspace. I cannot accept Worksheets or the Portfolio via email. 
+All assignments should be submitted via Brightspace. I cannot accept worksheets or the portfolio via email. 
 
 I will use Brightspace to provide feedback on your work. If you ever want additional feedback, then feel free to ask me. I can provide it in person, via Zoom, or by email. 
 
@@ -414,7 +414,7 @@ Throughout the term, I'll request feedback from you on how the course is going. 
 
 ### Late Submissions and Extensions
 
-I've a 24-hour grace period (no questions asked, no email required, and no penalties) for every Worksheet in this course. This means that I will not penalize you for submitting any worksheet a day after it's due in Brightpsace. A late penalty of 5 points per business day will apply after 24 hours. I do not consider weekends or holidays to be business days. 
+I've a 24-hour grace period (no questions asked, no email required, and no penalties) for every worksheet in this course. A late penalty of five points per business day will apply after 24 hours. I do not consider weekends or holidays to be business days. 
 
 I will not accept worksheets more than two weeks after they are due and cannot accept the portfolio more than three days after it is due.
 
@@ -430,7 +430,7 @@ I will assume you are attending each class meeting. If you are unable to attend 
 
 ### Equity, Diversity, and Inclusion (EDI)
 
-I aim to create an inclusive learning environment that attends to difference and honours each of you, including your experiences at the intersections of race, ethnicity, gender, disability, sexuality, religion, power, and class. I want to be a resource for you, and I continue to learn about EDI. If something is said in class (by anyone, including me) that makes you feel uncomfortable, then don't hesitate to talk with me. If you have a name and/or set of pronouns that differ from those that appear in your university records, then let me know, and I'll correct the documents provided to me. If your performance in the class is being impeded by your experiences outside of class, then keep me posted, and we'll make adjustments. I also welcome any suggestions to improve the quality of the course and its culture and materials, and I will make available mechanisms for anonymous feedback since you may prefer them.
+I aim to create an inclusive learning environment that attends to difference and honours each of you, including your experiences at the intersections of race, ethnicity, gender, disability, sexuality, religion, power, and class. I want to be a resource for you, and I continue to learn about EDI. If something is said in class (by anyone, including me) that makes you feel uncomfortable, then don't hesitate to talk with me. If you have a name and/or set of pronouns that differ from those that appear in your university records, then let me know, and I'll correct the documents provided to me. If your performance in the class is being impeded by your experiences outside of class, then keep me posted, and we'll make adjustments. I also welcome any suggestions to improve the quality of the course, and I will make available mechanisms for anonymous feedback since you may prefer them.
 
 ### Information for All Students 
 
@@ -440,9 +440,21 @@ This [page](https://www.uvic.ca/calendar/future/undergrad/index.php#/content/64b
 
 UVic is committed to promoting critical academic discourse while providing a respectful and productive learning environment across all modalities of learning and teaching. All members of the university community have the right to experience, and the responsibility to help create, such an environment. In any course, the instructor has the primary responsibility for creating a respectful, inclusive and productive learning environment in a manner consistent with other university policies and regulations. Instructors or students who have unresolved questions or concerns about a particular learning environment should bring them to the Chair or Director of the unit concerned (or Dean, in the case of undepartmentalized faculties).
 
+### Accessibility 
+
+UVic commits to addressing and removing barriers that hinder full and equal participation of people with disabilities. UVic's [Accessibility Plan](https://www.uvic.ca/info/accessibility/index.php) includes guiding principles and existing resources. It summarizes consultations, barriers, and priorities for the next three years to address those barriers.
+
+### Equity Action Plan 
+
+[The Equity Action Plan](https://www.uvic.ca/equity-action-plan/index.php)'s goals provide UVic with strategic direction to advance equity, diversity, and inclusion, and to create the conditions in which everyone feels a sense of belonging: as connected and respected parts of the university community.
+
+### Sexualized Violence Prevention and Response 
+
+UVic's [Sexualized Violence Resource Office](https://www.uvic.ca/sexualizedviolence/) in Equity and Human Rights (EQHR) offers information on how to start the conversation about consent, where to get support on and off campus, and the options available under UVic’s Sexualized Violence Prevention and Response Policy.
+
 ### Accommodation of Religious Observance 
 
-UVic recognizes its obligation to make reasonable accommodation for students whose observance of holy days might conflict with the academic requirements of a course or program. Students are permitted to absent themselves from classes, seminars or workshops for the purposes of religious or spiritual observance. In the case of compulsory classes or course events, students will normally be required to provide reasonable notice to their instructors of their intended absence from the class or event for reasons of religious or spiritual observance. In consultation with the student, the instructor will determine an appropriate means of accommodation. The instructor may choose to reschedule classes or provide individual assistance. Where a student's participation in a class event is subject to grading, every reasonable effort will be made to allow the student to make up for the missed class through alternative assignments or in subsequent classes. Students who require a rescheduled examination must give reasonable notice to their instructors. If a final exam cannot be rescheduled within the regular exam period, students may request an academic concession.
+UVic recognizes its obligation to make reasonable accommodation for students whose observance of holy days might conflict with the academic requirements of a course or program. Students are permitted to absent themselves from classes, seminars, or workshops for the purposes of religious or spiritual observance. In the case of compulsory classes or course events, students will normally be required to provide reasonable notice to their instructors of their intended absence from the class or event for reasons of religious or spiritual observance. In consultation with the student, the instructor will determine an appropriate means of accommodation. The instructor may choose to reschedule classes or provide individual assistance. Where a student's participation in a class event is subject to grading, every reasonable effort will be made to allow the student to make up for the missed class through alternative assignments or in subsequent classes. Students who require a rescheduled examination must give reasonable notice to their instructors. If a final exam cannot be rescheduled within the regular exam period, students may request an academic concession.
 
 ### Student Conduct
 
@@ -451,18 +463,6 @@ UVic is committed to promoting a safe, respectful and supportive learning, livin
 ### Non-Academic Student Conduct 
 
 UVic's [Non-Academic Misconduct Allegations policy](https://www.uvic.ca/services/studentlife/student-conduct/non-academic-misconduct/index.php?utm_medium=redirect&utm_source=namc&utm_campaign=redirect-usage) (AC1300) clarifies what non-academic student misconduct is; details how the university responds to non-academic misconduct allegations; outlines the review and investigation processes; describes possible outcomes and ensures that when misconduct is found to have occurred, any sanctions that are applied are fair and consistent; and, explains how to appeal a decision that has been made under the policy
-
-### Accessibility 
-
-UVic commits to addressing and removing barriers that hinder full and equal participation of people with disabilities. UVic's [Accessibility Plan](https://www.uvic.ca/info/accessibility/index.php) includes guiding principles and existing resources. It summarizes consultations, barriers and priorities for the next three years to address those barriers.
-
-### Equity Action Plan 
-
-[The Equity Action Plan](https://www.uvic.ca/equity-action-plan/index.php)'s goals provide UVic with strategic direction to advance equity, diversity and inclusion, and to create the conditions in which everyone feels a sense of belonging: as connected and respected parts of the university community.
-
-### Sexualized Violence Prevention and Response 
-
-UVic's [Sexualized Violence Resource Office](https://www.uvic.ca/sexualizedviolence/) in Equity and Human Rights (EQHR) offers information on how to start the conversation about consent, where to get support on and off campus, and the options available under UVic’s Sexualized Violence Prevention and Response Policy.
 
 ### Academic Integrity  
 
@@ -474,7 +474,7 @@ Students are responsible for the entire content and form of their work. Nothing 
 
 All course materials, including my slides, handouts, and lectures, are made available for educational purposes and the exclusive use of students in this course. The material is protected under copyright law even if it is not marked as such, and the syllabus is licensed [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Any further use or distribution of materials to others requires written permission, except under fair dealing or another exception in the Copyright Act. Violations may result in disciplinary action under the Resolution of Non-Academic Misconduct Allegations policy (AC1300). 
 
-## Generative AI 
+### Generative AI 
 
 UVic encourages innovative teaching practices and supports instructors who may like to adopt new pedagogical approaches and learning technologies. Generative Artificial Intelligence (GenAI) is a form of machine learning with the capabilities to produce text, images, video, music, code, etc. UVic does not have a general ban on the use of GAITs, including ChatGPT. Instead, UVic embraces the appropriate and ethical use of GAITs in learning and teaching. The university recognizes potential concerns associated with the use of GAITs, including potential biases in the algorithms and the possibility that GenAI might be used in ways that violate academic integrity principles and intellectual property rights. Faculty and instructors are best positioned to make decisions about the use of GAITs in their courses. UVic offers [guidelines](https://teachanywhere.uvic.ca/academic-integrity/ai-evaluation/) to support faculty, instructors, and students in the responsible, effective, and ethical use of artificial intelligence tools. These guidelines also support principles of academic integrity and help to prepare students for a future where the use of GAITs continues to evolve.
 
