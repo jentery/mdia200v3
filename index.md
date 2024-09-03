@@ -346,7 +346,7 @@ Here are some resources for the course and your studies at UVic.
 
 ### UVic Learn Anywhere
 
-[UVic Learn Anywhere](https://onlineacademiccommunity.uvic.ca/uviclearn/) is where you c find articles, tip sheets, and video tutorials to develop the learning skills you need for academic success at UVic. 
+[UVic Learn Anywhere](https://onlineacademiccommunity.uvic.ca/uviclearn/) is where you can find articles, tip sheets, and video tutorials to develop the learning skills you need for academic success at UVic. 
 
 ### UVic Libraries 
 
@@ -358,11 +358,7 @@ The [Office of Indigenous Academic and Community Engagement](https://www.uvic.ca
 
 ### Centre for Academic Communication (CAC)
 
-The [Centre for Academic Communication](https://www.uvic.ca/learningandteaching/cac/index.php) offers online and in-person, one-on-one tutorials, workshops, and more. As a priority, they actively coach students on academic integrity, including preventing accidental plagiarism. Their free services are available to all UVic students. They are here to support students with time management and planning for a successful semester. They also coach students on reading, writing, speaking, understanding academic expectations, and other aspects of academic communication. They can support you in creating academic posters, blogposts, PowerPoint slides, and e-portfolios. 
-
-### Math and Stats Assistance Centre (MSAC)
-
-The [Math and Stats Assistance Centre](https://www.uvic.ca/science/math-statistics/current-students/undergraduate/msac/index.php) offers a friendly, collaborative study space where you can work on your 100- and 200-level math and stats courses. They have free tutors available to help; if you are stuck on a concept or problem, just sign up and the next tutor who supports your course will assist you.
+The [Centre for Academic Communication](https://www.uvic.ca/learningandteaching/cac/index.php) offers online and in-person one-on-one tutorials, workshops, and more. As a priority, they actively coach students on academic integrity, including preventing accidental plagiarism. Their free services are available to all UVic students. They are here to support students with time management and planning for a successful semester. They also coach students on reading, writing, speaking, understanding academic expectations, and other aspects of academic communication. They can support you in creating academic posters, blogposts, PowerPoint slides, and e-portfolios. 
 
 ### Community-Engaged Learning (CEL)
 
@@ -370,11 +366,7 @@ The [Math and Stats Assistance Centre](https://www.uvic.ca/science/math-statisti
 
 ### Academic Concessions and Accommodations
 
-If your academic courses are affected by illness, accident, or family affliction, you may wish to request an [academic concession](https://www.uvic.ca/students/academics/academic-concessions-accommodations/index.php).
-
-Are you a student with a learning disability, ADHD, mental health issue, or long-term recurring physical or sensory disability? Do you have chronic health issues? If you do, UVic provides [academic accommodations](https://www.uvic.ca/students/academics/academic-concessions-accommodations/index.php) to address barriers to your education. 
-
-The university recognizes its responsibility to offer academic concessions to students whose ability to complete course requirements is interrupted by 1) unexpected and unavoidable circumstances or 2) conflicting responsibilities. Learn more about [academic concession regulations](https://www.uvic.ca/calendar/future/undergrad/index.php#/policy/HJjAxiGO4). 
+If your academic courses are affected by illness, accident, or family affliction, you may wish to request an [academic concession](https://www.uvic.ca/students/academics/academic-concessions-accommodations/index.php). Are you a student with a learning disability, ADHD, mental health issue, or long-term recurring physical or sensory disability? Do you have chronic health issues? If you do, UVic provides academic accommodations to address barriers to your education.  
 
 ### Student Wellness 
 
@@ -388,11 +380,11 @@ The [ombuds office](https://uvicombudsperson.ca/) is an independent, impartial, 
 
 The following student groups may be relevant to your life as a student here at UVic: 
 
-* [The Native Students Union](https://www.uvicnsu.ca/) "is an organization run for and by Indigenous students at UVic. Since circa 1969, Indigenous students have been coming together to form community, support each other, advocate for Indigenous rights and wellbeing, and just exist together at the institution. The NSU runs events and programs, manages a student space with services, and advocates for Indigenous student success and wellness at UVic. The NSU Council leads the NSU in running and developing these services." 
-* [The Students of Colour Collective](https://soccollective.com/) "are a Collective of self-identified people of colour at the University of Victoria. Anyone identifying as BIPOC (Black, Indigenous and Person of Colour) is welcome to use our lounge and access our resources. SOCC exists to create space that fosters community building, and facilitates networking and gatherings for self-identified BIPOC folks. Our work centres on art, awareness, education, action, advocacy, and support. Every student of colour is welcome to get in touch and find out how to get involved."
-* [The Society for Students with a Disability (SSD)](https://uvicssd.ca/) "is a post-secondary student advocacy group under the University of Victoria Students’ Union which promotes the full participation and inclusion of students who self-identify as having one or more disabilities at the University of Victoria. The SSD aims to support students who self-identify as having one or more disabilities; in particular, we support students to reduce barriers in the social, emotional, and educational domains of student life."
-* [The Gender Empowerment Centre (GEM)](https://genderempowermentcentre.ca/) "is an inclusive space, focused on the needs of self-identified women, non-binary, trans and gender non-conforming folks to organize, network, access resources, attend workshops and events, study, and relax. Our space is open to both University of Victoria students and community members."
-* [UVic Pride Collective](https://pridecollective.ca/) "is committed to practicing decolonization, deinstitutionalization and radical acceptance. We believe that actualizing Queer liberation is possible through the relationships we nurture and build with each other. Community care is revolutionary, and our intersectional programming reflects that sentiment. The Collective is proudly run by a variety of UVSS staff, work study students, student volunteers, and more."
+* [The Native Students Union](https://www.uvicnsu.ca/),
+* [The Students of Colour Collective](https://soccollective.com/), 
+* [The Society for Students with a Disability (SSD)](https://uvicssd.ca/), 
+* [The Gender Empowerment Centre (GEM)](https://genderempowermentcentre.ca/), and 
+* [UVic Pride Collective](https://pridecollective.ca/).
 
 # Policies 
 
