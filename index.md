@@ -324,13 +324,13 @@ Participation will address voice, play, and fandom.
 
 Before class, please read the handout titled, "Preservation."
 
-Preservation will address collection, migration, emulation.
+Preservation will address collection, migration, and emulation.
 
 *Today is the last session covered by Worksheet 4, which is due by Monday, December 2nd at 10am.*
 
 ## M 2 December: Last Session!
 
-Before class, please read the handout titled, "Media Studies: A Review"
+Before class, please read the handout titled, "Media Studies: A Review."
 
 *Worksheet 4 is due today by 10am.* 
 
