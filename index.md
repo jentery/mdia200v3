@@ -187,7 +187,7 @@ Before class, please read the handouts titled:
 Before class, please read the handouts titled: 
 
 1. "Images," 
-2. "Comics," and TW
+2. "Comics," and
 3. "Ways of Seeing."
 
 *Worksheet 1 is due today by 10am.* 
