@@ -1,4 +1,4 @@
-**Media Studies 200: Intro to Media Studies**  
+**Media Studies 200: Intro to Media Studies**     
 Intended for 80 undergraduate students     
 Fall 2024 at the University of Victoria  
 [lək̓ʷəŋən](https://www.songheesnation.ca/community/l-k-ng-n-traditional-territory) and [<u>W</u>SÁNEĆ](https://wsanec.com/) territories  
