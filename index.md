@@ -64,7 +64,7 @@ You can email me at [jentery@uvic.ca](mailto:jentery@uvic.ca) or find me in Clea
 
 You do *not* need to purchase a textbook or any primary sources for this course, but you will need access to a computer, the internet (including [Brightspace](https://bright.uvic.ca/)), a camera, and a microphone. 
 
-*Handouts*: I produce my own handouts for this course and will circulate them in Brightspace each week. They include concise overviews of key themes and terms to help you prepare for upcoming class sessions. You can think of them as an alternative to a MDIA 200 textbook. 
+*Handouts*: I produce my own handouts for this course and will circulate them in Brightspace each week. They include concise overviews of key themes and terms to help you prepare for upcoming class sessions. You can think of them as an alternative to an MDIA 200 textbook. 
 
 *Slide Decks*: I will create an HTML slide deck for each class session and link to it in Brightspace immediately before class begins. This way, you can access my slides during and after class. 
 
@@ -92,7 +92,7 @@ I am asking you to complete five assignments this term.
 2. **[Worksheet 2](https://jentery.github.io/mdia200v3/worksheet2.html)**: 20% of your final grade (due by Monday, October 21st at 10am). 
 3. **[Worksheet 3](https://jentery.github.io/mdia200v3/worksheet3.html)**: 20% of your final grade (due by Thursday, November 14th at 10am).
 4. **[Worksheet 4](https://jentery.github.io/mdia200v3/worksheet4.html)**: 15% of your final grade (due by Monday, December 2nd at 10am). 
-5. **[Portfolio](https://jentery.github.io/mdia200v3/portfolio.html)**: 25% of your final grade (due by Friday, December 13th at 10am). 
+5. **[Portfolio](https://jentery.github.io/mdia200v3/portfolio.html)**: 25% of your final grade (due by Thursday, December 12th at 10am). 
 
 *Worksheets*: The worksheets will ask you to apply what you're learning in class through a combination of media (audio, images, text, and video). A worksheet will never contain more than five prompts, and I will encourage you to use class time to draft your brief responses to them. I will circulate each worksheet well before it's due, and I'll review each prompt in class to ensure it's clear. 
 
@@ -336,7 +336,6 @@ Before class, please read the handout titled, "Media Studies: A Review."
 
 *Wednesday, December 4th is National Day of Remembrance and Action on Violence Against Women.*
 
-## F 13 December: Portfolio 
+## Th 12 December: Portfolio 
 
 Please submit your portfolio by 10am today. I hope you've a wonderful winter break! 
-
