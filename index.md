@@ -339,3 +339,159 @@ Before class, please read the handout titled, "Media Studies: A Review."
 ## Th 12 December: Portfolio 
 
 Please submit your portfolio by 10am today. I hope you've a wonderful winter break! 
+
+# Resources 
+
+Here are some resources for the course and your studies at UVic. 
+
+### UVic Learn Anywhere
+
+[UVic Learn Anywhere](https://onlineacademiccommunity.uvic.ca/uviclearn/) is where you c find articles, tip sheets, and video tutorials to develop the learning skills you need for academic success at UVic. 
+
+### UVic Libraries 
+
+Everyone at the [University of Victoria Libraries](https://www.uvic.ca/library/) is committed to the success of UVic's students and faculty. The library's foundational role in acquiring and preserving research resources is critical in the complex digital environment of 21st-century scholarship. Their expert staff are increasingly working within disciplines, across disciplines, and beyond traditional boundaries, as they navigate this exciting landscape with students, faculty, and researchers. They welcome the wider public into their physical spaces and actively seek partnerships with local and regional organizations to support and enhance the rich arts, culture, and learning opportunities in UVic's communities.
+
+### Office of Indigenous Academic and Community Engagement (IACE)
+
+The [Office of Indigenous Academic and Community Engagement](https://www.uvic.ca/iace/about/index.php) serves as a hub for cultural, academic, and community connections. Whether you are a student seeking guidance, a community looking to collaborate, or an individual interested in learning more about Indigenous initiatives at UVic, IACE is here to support you on your journey. They work closely with Indigenous students, staff, faculty, Elders, and community to create opportunities for meaningful engagement, ensuring that Indigenous perspectives and voices are woven into the fabric of their work.
+
+### Centre for Academic Communication (CAC)
+
+The [Centre for Academic Communication](https://www.uvic.ca/learningandteaching/cac/index.php) offers online and in-person, one-on-one tutorials, workshops, and more. As a priority, they actively coach students on academic integrity, including preventing accidental plagiarism. Their free services are available to all UVic students. They are here to support students with time management and planning for a successful semester. They also coach students on reading, writing, speaking, understanding academic expectations, and other aspects of academic communication. They can support you in creating academic posters, blogposts, PowerPoint slides, and e-portfolios. 
+
+### Math and Stats Assistance Centre (MSAC)
+
+The [Math and Stats Assistance Centre](https://www.uvic.ca/science/math-statistics/current-students/undergraduate/msac/index.php) offers a friendly, collaborative study space where you can work on your 100- and 200-level math and stats courses. They have free tutors available to help; if you are stuck on a concept or problem, just sign up and the next tutor who supports your course will assist you.
+
+### Community-Engaged Learning (CEL)
+
+[Community-Engaged Learning](https://www.uvic.ca/career-services/build-your-career/community-engaged-learning/index.php) is a rewarding way to apply your studies to real-life projects in the community. This type of learning is a partnership between UVic students, faculty, campus partners, and the community beyond campus. It's a way to gain meaningful hands-on experience that supports and honours the community and strengthens your academic experience. 
+
+### Academic Concessions and Accommodations
+
+If your academic courses are affected by illness, accident, or family affliction, you may wish to request an [academic concession](https://www.uvic.ca/students/academics/academic-concessions-accommodations/index.php).
+
+Are you a student with a learning disability, ADHD, mental health issue, or long-term recurring physical or sensory disability? Do you have chronic health issues? If you do, UVic provides [academic accommodations](https://www.uvic.ca/students/academics/academic-concessions-accommodations/index.php) to address barriers to your education. 
+
+The university recognizes its responsibility to offer academic concessions to students whose ability to complete course requirements is interrupted by 1) unexpected and unavoidable circumstances or 2) conflicting responsibilities. Learn more about [academic concession regulations](https://www.uvic.ca/calendar/future/undergrad/index.php#/policy/HJjAxiGO4). 
+
+### Student Wellness 
+
+Their [team of practitioners](https://www.uvic.ca/student-wellness/) offers a variety of services to support students' mental, physical, and spiritual health. You can make a same-day or pre-booked appointment with a counsellor, nurse, physician, or spiritual care provider.
+
+### Ombudsperson
+
+The [ombuds office](https://uvicombudsperson.ca/) is an independent, impartial, and confidential resource for undergraduate and graduate students and other members of the University of Victoria community. The ombudsperson helps resolve student problems or disputes fairly. 
+
+### Student Groups 
+
+The following student groups may be relevant to your life as a student here at UVic: 
+
+* [The Native Students Union](https://www.uvicnsu.ca/) "is an organization run for and by Indigenous students at UVic. Since circa 1969, Indigenous students have been coming together to form community, support each other, advocate for Indigenous rights and wellbeing, and just exist together at the institution. The NSU runs events and programs, manages a student space with services, and advocates for Indigenous student success and wellness at UVic. The NSU Council leads the NSU in running and developing these services." 
+* [The Students of Colour Collective](https://soccollective.com/) "are a Collective of self-identified people of colour at the University of Victoria. Anyone identifying as BIPOC (Black, Indigenous and Person of Colour) is welcome to use our lounge and access our resources. SOCC exists to create space that fosters community building, and facilitates networking and gatherings for self-identified BIPOC folks. Our work centres on art, awareness, education, action, advocacy, and support. Every student of colour is welcome to get in touch and find out how to get involved."
+* [The Society for Students with a Disability (SSD)](https://uvicssd.ca/) "is a post-secondary student advocacy group under the University of Victoria Students’ Union which promotes the full participation and inclusion of students who self-identify as having one or more disabilities at the University of Victoria. The SSD aims to support students who self-identify as having one or more disabilities; in particular, we support students to reduce barriers in the social, emotional, and educational domains of student life."
+* [The Gender Empowerment Centre (GEM)](https://genderempowermentcentre.ca/) "is an inclusive space, focused on the needs of self-identified women, non-binary, trans and gender non-conforming folks to organize, network, access resources, attend workshops and events, study, and relax. Our space is open to both University of Victoria students and community members."
+* [UVic Pride Collective](https://pridecollective.ca/) "is committed to practicing decolonization, deinstitutionalization and radical acceptance. We believe that actualizing Queer liberation is possible through the relationships we nurture and build with each other. Community care is revolutionary, and our intersectional programming reflects that sentiment. The Collective is proudly run by a variety of UVSS staff, work study students, student volunteers, and more."
+
+# Policies 
+
+Here are the policies for this course. Please let me know if anything is unclear, ignorant, or mistaken. I'll correct it. 
+
+### Media Studies Certificate 
+
+This course counts toward UVic's [Media Studies certificate](https://www.uvic.ca/humanities/media-studies/program/index.php). 
+
+### Communications and Office Hours
+
+The best way to communicate with me is by email ([jentery@uvic.ca](mailto:jentery@uvic.ca)) or during office hours, which are Thursday, 12-1pm, in CLE D331. I can also make an appointment to meet with you in person or via Zoom. 
+
+I respond to email between 9am and 5pm, Monday through Friday, excluding holidays. 
+  
+### Assessment and Feedback
+
+Two of the four worksheets as well as the portfolio are required to pass this course. Failure to complete these three assignments will result in a failing N grade (calculated as a 0 for your GPA). 
+
+I will use UVic's [official grading system](https://www.uvic.ca/calendar/future/undergrad/index.php#/policy/S1AAgoGuV?bc=true&bcCurrent=14%20-%20Grading&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies) to produce rubrics to assess your work. I will not post marks publicly or outside my office, and I do not use plagiarism or AI detection software.
+
+All assignments should be submitted via Brightspace. I cannot accept Worksheets or the Portfolio via email. 
+
+I will use Brightspace to provide feedback on your work. If you ever want additional feedback, then feel free to ask me. I can provide it in person, via Zoom, or by email. 
+
+Throughout the term, I'll request feedback from you on how the course is going. I'll also ask you to complete Course Experience Surveys at the end of the term. 
+
+### Late Submissions and Extensions
+
+I've a 24-hour grace period (no questions asked, no email required, and no penalties) for every Worksheet in this course. This means that I will not penalize you for submitting any worksheet a day after it's due in Brightpsace. A late penalty of 5 points per business day will apply after 24 hours. I do not consider weekends or holidays to be business days. 
+
+I will not accept worksheets more than two weeks after they are due and cannot accept the portfolio more than three days after it is due.
+
+Please email me if you need an extension for any assignment, and we can discuss possibilities on a case-by-case basis.    
+
+### Attendance and Participation
+
+There is no participation or attendance mark in this course; however, it is driven by class discussion and workshops, which are difficult to record or "capture." 
+
+I will assume you are attending each class meeting. If you are unable to attend a particular meeting, then please email me in advance and coordinate with a peer to get notes and the like from the session(s) you'll miss. 
+
+*You do not need to provide me with documentation for an absence.*
+
+### Equity, Diversity, and Inclusion (EDI)
+
+I aim to create an inclusive learning environment that attends to difference and honours each of you, including your experiences at the intersections of race, ethnicity, gender, disability, sexuality, religion, power, and class. I want to be a resource for you, and I continue to learn about EDI. If something is said in class (by anyone, including me) that makes you feel uncomfortable, then don't hesitate to talk with me. If you have a name and/or set of pronouns that differ from those that appear in your university records, then let me know, and I'll correct the documents provided to me. If your performance in the class is being impeded by your experiences outside of class, then keep me posted, and we'll make adjustments. I also welcome any suggestions to improve the quality of the course and its culture and materials, and I will make available mechanisms for anonymous feedback since you may prefer them.
+
+### Information for All Students 
+
+This [page](https://www.uvic.ca/calendar/future/undergrad/index.php#/content/64b07a85168098001c8e8a49) contains a list of important UVic policies.  
+
+### Creating a Respectful, Inclusive, and Productive Learning Environment
+
+UVic is committed to promoting critical academic discourse while providing a respectful and productive learning environment across all modalities of learning and teaching. All members of the university community have the right to experience, and the responsibility to help create, such an environment. In any course, the instructor has the primary responsibility for creating a respectful, inclusive and productive learning environment in a manner consistent with other university policies and regulations. Instructors or students who have unresolved questions or concerns about a particular learning environment should bring them to the Chair or Director of the unit concerned (or Dean, in the case of undepartmentalized faculties).
+
+### Accommodation of Religious Observance 
+
+UVic recognizes its obligation to make reasonable accommodation for students whose observance of holy days might conflict with the academic requirements of a course or program. Students are permitted to absent themselves from classes, seminars or workshops for the purposes of religious or spiritual observance. In the case of compulsory classes or course events, students will normally be required to provide reasonable notice to their instructors of their intended absence from the class or event for reasons of religious or spiritual observance. In consultation with the student, the instructor will determine an appropriate means of accommodation. The instructor may choose to reschedule classes or provide individual assistance. Where a student's participation in a class event is subject to grading, every reasonable effort will be made to allow the student to make up for the missed class through alternative assignments or in subsequent classes. Students who require a rescheduled examination must give reasonable notice to their instructors. If a final exam cannot be rescheduled within the regular exam period, students may request an academic concession.
+
+### Student Conduct
+
+UVic is committed to promoting a safe, respectful and supportive learning, living, and working environment. As part of the university community, each student is responsible for their personal conduct as it affects the university community, university activities, and the university's property. [The Office of Student Life](https://www.uvic.ca/services/studentlife/student-conduct/index.php) works directly with the university community to review and help resolve non-academic student conduct concerns. They administer the university's Resolution of Non-Academic Misconduct Allegations policy and serve as a supportive resource to the university community.
+
+### Non-Academic Student Conduct 
+
+UVic's [Non-Academic Misconduct Allegations policy](https://www.uvic.ca/services/studentlife/student-conduct/non-academic-misconduct/index.php?utm_medium=redirect&utm_source=namc&utm_campaign=redirect-usage) (AC1300) clarifies what non-academic student misconduct is; details how the university responds to non-academic misconduct allegations; outlines the review and investigation processes; describes possible outcomes and ensures that when misconduct is found to have occurred, any sanctions that are applied are fair and consistent; and, explains how to appeal a decision that has been made under the policy
+
+### Accessibility 
+
+UVic commits to addressing and removing barriers that hinder full and equal participation of people with disabilities. UVic's [Accessibility Plan](https://www.uvic.ca/info/accessibility/index.php) includes guiding principles and existing resources. It summarizes consultations, barriers and priorities for the next three years to address those barriers.
+
+### Equity Action Plan 
+
+[The Equity Action Plan](https://www.uvic.ca/equity-action-plan/index.php)'s goals provide UVic with strategic direction to advance equity, diversity and inclusion, and to create the conditions in which everyone feels a sense of belonging: as connected and respected parts of the university community.
+
+### Sexualized Violence Prevention and Response 
+
+UVic's [Sexualized Violence Resource Office](https://www.uvic.ca/sexualizedviolence/) in Equity and Human Rights (EQHR) offers information on how to start the conversation about consent, where to get support on and off campus, and the options available under UVic’s Sexualized Violence Prevention and Response Policy.
+
+### Academic Integrity  
+
+[Academic integrity](https://www.uvic.ca/calendar/future/undergrad/index.php#/policy/Sk_0xsM_V) requires commitment to the values of honesty, trust, fairness, respect, and responsibility. It is expected that students, faculty members, and staff at the University of Victoria, as members of an intellectual community, will adhere to these ethical values in all activities related to learning, teaching, research, and service. Any action that contravenes this standard, including misrepresentation, falsification, or deception, undermines the intention and worth of scholarly work and violates the fundamental academic rights of members of our community. This policy is designed to ensure that the university's standards are upheld in a fair and transparent fashion.
+
+Students are responsible for the entire content and form of their work. Nothing in this policy is intended to prohibit students from developing their academic skills through the exchange of ideas and the utilization of resources available at the university to support learning (e.g., The Centre for Academic Communication). Students who are in doubt as to what constitutes a violation of academic integrity in a particular instance should consult their course instructor.
+
+### Copyright 
+
+All course materials, including my slides, handouts, and lectures, are made available for educational purposes and the exclusive use of students in this course. The material is protected under copyright law even if it is not marked as such, and the syllabus is licensed [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Any further use or distribution of materials to others requires written permission, except under fair dealing or another exception in the Copyright Act. Violations may result in disciplinary action under the Resolution of Non-Academic Misconduct Allegations policy (AC1300). 
+
+## Generative AI 
+
+UVic encourages innovative teaching practices and supports instructors who may like to adopt new pedagogical approaches and learning technologies. Generative Artificial Intelligence (GenAI) is a form of machine learning with the capabilities to produce text, images, video, music, code, etc. UVic does not have a general ban on the use of GAITs, including ChatGPT. Instead, UVic embraces the appropriate and ethical use of GAITs in learning and teaching. The university recognizes potential concerns associated with the use of GAITs, including potential biases in the algorithms and the possibility that GenAI might be used in ways that violate academic integrity principles and intellectual property rights. Faculty and instructors are best positioned to make decisions about the use of GAITs in their courses. UVic offers [guidelines](https://teachanywhere.uvic.ca/academic-integrity/ai-evaluation/) to support faculty, instructors, and students in the responsible, effective, and ethical use of artificial intelligence tools. These guidelines also support principles of academic integrity and help to prepare students for a future where the use of GAITs continues to evolve.
+
+### Basic Needs 
+
+I want you to thrive in this course and everywhere else. Please let me know as early as possible if you have any concerns or if you require any supports to succeed. I'll do my best to help. If, for instance, you need to cover gaps in care, then please don't hesitate to bring your children to class meetings. Babies who are nursing are always welcome, as I do not want you to choose between feeding your child and continuing your education. 
+
+***
+
+Many thanks to everyone in [UVic's Praxis Studio](https://uvicpraxis.github.io/) for their support and suggestions for this course. Some material in this outline was informed by the Media Texthack Team's [Media Studies 101](https://opentextbc.ca/mediastudies101/) project. 
+
+*This syllabus is licensed [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).*
