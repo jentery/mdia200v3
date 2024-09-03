@@ -240,11 +240,11 @@ Before class, please read the handouts titled:
 
 *Today is the last session covered by Worksheet 2, which is due by Monday, October 21st at 10am.*
 
-## MODULE 3: METHODOLOGIES 
+## MODULE 3: APPROACHES
 
 This module begins on Monday, October 21st and ends on Thursday, November 28th.
 
-## M 21 October: Methodologies, Part 1
+## M 21 October: Approaches, Part 1
 
 Before class, please read the handout titled, "Effects."
 
@@ -252,19 +252,19 @@ Effects will address affect, cognition, and behaviour.
 
 *Worksheet 2 is due today by 10am.* 
 
-## Th 24 October: Methodologies, Part 2
+## Th 24 October: Approaches, Part 2
 
 Before class, please read the handout titled, "Culture."
 
 Culture will address rituals, values, and community. 
 
-## M 28 October: Methodologies, Part 3
+## M 28 October: Approaches, Part 3
 
 Before class, please read the handout titled, "Aesthetics."
 
 Aesthetics will address art, design, and experience. 
 
-## Th 31 October: Methodologies, Part 4
+## Th 31 October: Approaches, Part 4
 
 Before class, please read the handout titled, "Meaning."
 
@@ -272,7 +272,7 @@ Meaning will address semiotics, encoding, and decoding.
 
 *Today is the last day to withdraw from first-term courses without penalty of failure.*
 
-## M 4 November: Methodologies, Part 5
+## M 4 November: Approaches, Part 5
 
 Before class, please read the handout titled, "Persuasion."
 
@@ -280,7 +280,7 @@ Persuasion will address rhetoric, propaganda, and disinformation.
 
 *Please email me if you have any questions or concerns about Worksheet 3.*
 
-## Th 7 November: Methodologies, Part 6 
+## Th 7 November: Approaches, Part 6 
 
 Before class, please read the handout titled, "Representation." 
 
@@ -298,13 +298,13 @@ No class today, but please schedule a time to meet with me if you've questions o
 
 *Worksheet 3 is due today by 10am.* 
 
-## M 18 November: Methodologies, Part 7 
+## M 18 November: Approaches, Part 7 
 
 Before class, please read the handout titled, "Narrative." 
 
 Narrative will address genre, story, and plot. 
 
-## Th 21 November: Methodologies, Part 8 
+## Th 21 November: Approaches, Part 8 
 
 Before class, please read the handout titled, "Ownership."
 
@@ -312,7 +312,7 @@ Ownership will address monopolies, regulation, and public / private media.
 
 *Please email me if you have any questions or concerns about Worksheet 4.*
 
-## M 25 November: Methodologies, Part 9 
+## M 25 November: Approaches, Part 9 
 
 Before class, please read the handout titled, "Participation." 
 
@@ -320,7 +320,7 @@ Participation will address voice, play, and fandom.
 
 *Please email me if you have any questions or concerns about the Portfolio.* 
 
-## Th 28 November: Methodologies, Part 10
+## Th 28 November: Approaches, Part 10
 
 Before class, please read the handout titled, "Preservation."
 
