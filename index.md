@@ -414,7 +414,7 @@ I will use UVic's [official grading system](https://www.uvic.ca/calendar/future/
 
 All assignments should be submitted via Brightspace. I cannot accept worksheets or the portfolio via email. 
 
-I will use Brightspace to provide feedback on your work. If you ever want additional feedback, then feel free to ask me. I can provide it in person, via Zoom, or by email. 
+I will use Brightspace to provide feedback on your work. If you ever want additional feedback, then feel free to ask me. I can provide it in person, via Zoom, or by email. Please also note that I will mark all the assignments in this course. (Maya is not marking this term.) 
 
 Throughout the term, I'll request feedback from you on how the course is going. I'll also ask you to complete Course Experience Surveys at the end of the term. 
 
