@@ -72,7 +72,7 @@ You do *not* need to purchase a textbook or any primary sources for this course,
 
 *Handouts*: I produce my own handouts for this course and will circulate them in Brightspace each week. They include concise overviews of key themes and terms to help you prepare for upcoming class sessions. You can think of them as an alternative to an MDIA 200 textbook. 
 
-*Slide Decks*: I will create an HTML slide deck for each class session and link to it in Brightspace immediately before class begins. This way, you can access my slides during and after class. 
+*Slide Decks*: I will create HTML slide decks for most class sessions and link to them in Brightspace immediately before class begins. This way, you can access my slides during and after class. 
 
 *Primary Sources*: My slide decks will frequently contain primary sources or links to them. We'll discuss these primary sources in class to apply what you're learning from the weekly handouts. Examples of primary sources we'll study this term include the browser game, [*Hair Nah*](https://www.momopixel.com/hair-nah) (2017), by Momo Pixel; the comic, ["Translated, From the Japanese"](https://drawnandquarterly.com/books/killing-and-dying/) (2015), by Adrian Tomine; the stop-motion animation, [*Biidaaban (The Dawn Comes)*](https://www.spottedfawnproductions.com/biidaaban/) (2018), by Amanda Strong, Leanne Betasamosake Simpson, and Bracken Hanuse Corlett; and the photo story, ["Fighting for Food Sovereignty Amid Worsening Wildfires"](https://thenarwhal.ca/indigenous-food-sovereignty-wildfires-bc/) (2023), by Steph Kwetásel'wet Wood. 
 
