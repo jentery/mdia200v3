@@ -398,7 +398,7 @@ Here are the policies for this course alongside several UVic policies. Please le
 
 ### Media Studies Certificate 
 
-This course counts toward UVic's [Media Studies certificate](https://www.uvic.ca/humanities/media-studies/program/index.php). 
+This course counts toward UVic's [Media Studies certificate](https://www.uvic.ca/calendar/future/undergrad/index.php#/programs/rJP4a8byi?bc=true&bcCurrent=Media%20Studies&bcItemType=programs). In fact, it's required for the certificate. 
 
 ### Communications and Office Hours
 
