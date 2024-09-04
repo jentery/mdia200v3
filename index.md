@@ -58,7 +58,13 @@ My name is Jentery Sayers (he / him). I skip a syllable and say it in two: "JEN-
 
 I spend 14.68% of the day looking for my glasses, and I enjoy writing about games and media. I grew up in Richmond, Virginia and went to Virginia Commonwealth University for my BA and BS degrees. Then I moved to Seattle, where I received an MA and PhD in English from the University of Washington. I now teach courses for UVic Media Studies and English, and I direct the Media Studies program. I like to play TTRPGs, drums, guitar, and soccer in my spare time. I also do my best to maintain a [portfolio](https://jntry.work/) of my work. 
 
-You can email me at [jentery@uvic.ca](mailto:jentery@uvic.ca) or find me in Clearihue D331.
+You can email me at [jentery@uvic.ca](mailto:jentery@uvic.ca) or find me in Clearihue D331. My office hours are Thursday, 12-1pm, in CLE D331. I respond to emails Monday through Friday, 9am - 5pm, excluding holidays.
+
+Hi! I'm Maya, your TA for the term (she/any). I'm a current English MA student and a recent grad from UVic's Honours English BA.
+ 
+There was a time when I, too, spent 14.68% of the day looking for my glasses, but now I can't look for anything if they're not on my face. I partly attribute my rapidly deteriorating eyesight to the amount of time I've spent reading fanfiction on my phone. Alas, it will never get better, as my area of research is now fan studies.
+ 
+I'm super stoked about MDIA 200 and more than happy to answer all your questions about our course, your undergrad woes, life, death, MLA citations, the crushing reality of late-stage capitalism, where to kickbox in Vic, etc. You can email me at [mlinsley@uvic.ca](mailto:mlinsley@uvic.ca) or see me in my evil lair by appointment.
 
 # Materials 
 
@@ -98,9 +104,9 @@ I am asking you to complete five assignments this term.
 
 *Portfolio*: You'll conclude MDIA 200 by producing a portfolio that documents what you learned in this course, reflects on that learning, and communicates its significance to someone in particular (e.g., a professor, student, friend, or family member).  
 
-*Brightspace*: Please use Brightspace to submit all your work this term. You do not need to purchase any software to use Brightspace, but you will need your UVic NetLink ID, access to the internet, and a computer. I cannot accept assignments by email. Thank you for understanding.  
+*Brightspace*: Please use Brightspace to submit all your work this term. You do not need to purchase any software to use Brightspace, but you will need your UVic NetLink ID, access to the internet, and a computer. I cannot accept assignments by email.
 
-*Feedback*: I will provide brief and focused feedback on worksheets according to their grading rubrics. Please email me or schedule an appointment (F2F or Zoom) to discuss my feedback. I respond to emails Monday through Friday, 9am - 5pm, excluding holidays. Thanks in advance for your patience. 
+*Feedback*: I will provide brief and focused feedback on worksheets according to their grading rubrics. Please email me or schedule an appointment (F2F or Zoom) to discuss my feedback. Again, I respond to emails Monday through Friday, 9am - 5pm, excluding holidays. Thanks in advance for your patience. 
 
 *Workshop*: Worksheet 4 will ask you to register for a workshop in UVic Libraries, attend it, and document what you did and learned. I will circulate a signup sheet for the workshops in September.
 
