@@ -78,7 +78,7 @@ You do *not* need to purchase a textbook or any primary sources for this course,
 
 *Content Warnings*: I'll include content warnings for materials, including primary sources, before I share or screen them in class. 
 
-*Recordings*: I do not plan to record our class sessions; however, you are welcome to record audio of class for private study and note-taking.
+*Recordings*: I do not plan to record our class sessions; however, you are welcome to record audio for private access, study, and note-taking.
  
 *Brightspace*: I'll use the course Brightspace to: 
 
