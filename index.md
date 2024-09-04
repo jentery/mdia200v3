@@ -82,7 +82,7 @@ You do *not* need to purchase a textbook or any primary sources for this course,
  
 *Brightspace*: I'll use the course Brightspace to: 
 
-* Circulate a class announcement each *Monday* to help you plan for what's next,  
+* Circulate a class announcement each week (usually on Mondays) to help you plan for what's next,  
 * Share weekly handouts, my slides, and any primary sources we study in class,  
 * Point you to resources available online, 
 * Accept all your assignments (please don't submit anything to me by email), and
