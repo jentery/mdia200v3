@@ -274,7 +274,7 @@ Aesthetics will address art, design, and experience.
 
 Before class, please read the handout titled, "Meaning."
 
-Meaning will address semiotics, encoding, and decoding. 
+Meaning will address semiotics, discourse, and encoding/decoding. 
 
 *Today is the last day to withdraw from first-term courses without penalty of failure.*
 
