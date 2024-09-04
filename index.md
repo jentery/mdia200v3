@@ -490,6 +490,6 @@ I want you to thrive in this course and everywhere else. Please let me know as e
 
 ***
 
-Many thanks to everyone in [UVic's Praxis Studio](https://uvicpraxis.github.io/) for their support and suggestions for this course. Some material in this outline was informed by the Media Texthack Team's [Media Studies 101](https://opentextbc.ca/mediastudies101/) project. 
+Some material in this outline was informed by the Media Texthack Team's [Media Studies 101](https://opentextbc.ca/mediastudies101/) project. 
 
 *This syllabus is licensed [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).*
