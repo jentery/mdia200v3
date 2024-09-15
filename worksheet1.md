@@ -9,9 +9,9 @@ Teaching assistant: Maya Linsley (she / any)
 
 # Worksheet 1
 
-This worksheet covers material from [Module 1: Communications](https://jentery.github.io/mdia200v3/#module-1-communication). Your response is due via Brightspace by Thursday, September 26th at 10am.   
+This worksheet covers material from [Module 1: Communication](https://jentery.github.io/mdia200v3/#module-1-communication). Your response is due via Brightspace by Thursday, September 26th at 10am.   
 
-The worksheet is *open-book*, meaning you are allowed to use assigned primary sources, handouts, the course website, my slides, your notes, recorded class sessions, the library, and the internet to address the prompts.
+The worksheet is *open-book*, meaning you are allowed to use handouts, the course website, my slides, your notes, recordings of class sessions, the library, and the internet to address the prompts.
 
 *Please cite your source material.* 
 
@@ -23,31 +23,33 @@ Please [download the worksheet](mdia200v3Worksheet1.docx) (DOCX format) to compl
 
 This open-book worksheet contains *five* prompts. You should respond to *four* of them. If you respond to all five, then I will mark the first four. 
 
-Each response is worth 25 points for a total of 100 points. Some prompts ask you to create media. Please attach your audio, image, or video files to your response in Brightspace. Do *not* use YouTube, SoundCloud, Vimeo, Google Drive, or any other non-Brightspace platform to submit files. 
+Each response is worth 25 points for a total of 100 points. 
+
+Some prompts ask you to create media. Please attach your audio, image, or video files to your response in Brightspace. Do *not* use YouTube, SoundCloud, Vimeo, Google Drive, or any other non-Brightspace platform to submit files. 
 
 ## The Five Prompts (Select Four)
 
-1\. The content industry generates revenue by circulating content. This means content creators must develop strategies for monetization, moderation, and self-protection from toxicity. Take a minute to describe the *labour* involved in those strategies.
+**Prompt 1**. The content industry generates revenue by circulating content. This means content creators must develop strategies for monetization, moderation, and self-protection from toxicity. Take a minute to describe the *labour* involved in those strategies.
 
-Find some user-generated content on an online media platform and copy the URL for it. Then use no more than 350 words, including terminology from the ["Content Industry"](https://bright.uvic.ca/d2l/le/lessons/358717/topics/2965740) handout, to share 1) the name of the platform, 2) the metrics it uses to measure engagement, 3) how the content creator monetizes and moderates their content on that platform, 4) how the platform generates revenue from that content, and 5) how the content creator protects themselves from toxic behaviours. Please paste the content's URL into your response. That way, I can access it.
+Find some user-generated content on a media platform and copy the URL for it. Then use no more than 350 words, including terminology from the ["Content Industry"](https://bright.uvic.ca/d2l/le/lessons/358717/topics/2965740) handout, to share 1) the name of the platform, 2) the metrics it uses to measure engagement, 3) how the content creator monetizes and moderates their content on that platform, 4) how the platform generates revenue from that content, and 5) how the content creator protects themselves from toxic behaviours. Please paste the content's URL into your response. That way, I can access it.
 
 (User-generated content is original content created by an individual and not by their employer or an organization.)
 
-2\. According to [WebAIM's 2023 report](https://webaim.org/projects/million/#alttext), "data show that one may expect over one third of the images on popular home pages to have missing, questionable, or repetitive alternative text." Take a minute to *write alt text* for an image.
+**Prompt 2**. According to [WebAIM's 2023 report](https://webaim.org/projects/million/#alttext), "data show that one may expect over one third of the images on popular home pages to have missing, questionable, or repetitive alternative text." Take a minute to *write alt text* for an image.
 
-Find an image online of two or more people communicating. Now copy the URL for the page on which that image appears. Then use no more than 350 words, including terminology from the ["Acts of Communication"](https://bright.uvic.ca/d2l/common/dialogs/quickLink/quickLink.d2l?ou=358717&type=coursefile&fileId=actsOfComm9Sept2024.pdf) and ["Senses of Communication"](https://bright.uvic.ca/d2l/common/dialogs/quickLink/quickLink.d2l?ou=358717&type=coursefile&fileId=sensesOfComm9Sept2024.pdf) handouts, to write alt text for the image. Next, please explain the critical decisions you made to 1) account for the image's context on the page and 2) describe the image's visual and nonverbal elements for someone else to hear. Please 1) include your alt text in quotation marks to distinguish it from the rest of your response and 2) paste the page's URL into your response. That way, I can access it.
+Find an image online of two or more people communicating. Now copy the URL for the page on which that image appears. Then use no more than 350 words, including terminology from the ["Acts of Communication"](https://bright.uvic.ca/d2l/le/lessons/358717/topics/2968976) and ["Senses of Communication"](https://bright.uvic.ca/d2l/le/lessons/358717/topics/2969015) handouts, to write alt text for the image. Next, please explain the critical decisions you made to 1) account for the image's context on the page and 2) describe the image's visual and nonverbal elements for someone else to hear. Please 1) include your alt text in quotation marks to distinguish it from the rest of your response and 2) paste the page's URL into your response. That way, I can access it.
 
-(There is no specification that officially restricts the length of alt text, but it should be succinct. For this exercise, I recommend fewer than 250 characters.)
+(There is no encoding standard that restricts the length of alt text, but alt text should be succinct. For this exercise, I recommend fewer than 250 characters, which won't count toward your word limit.)
 
-3\. The differences between one-to-one and one-to-many communications appear obvious at first but can in fact be subtle. Let's use *repetition* to test this idea.
+**Prompt 3**. The differences between one-to-one and one-to-many communications appear obvious at first but can in fact be subtle. Let's use *repetition* to test this idea.
 
 Create 30-60 seconds of audio to communicate roughly the same message twice: first to a friend at UVic via a hypothetical voice message (one-to-one) and second to all UVic students via a hypothetical [CFUV 101.9 FM](https://cfuv.uvic.ca/) transmission (one-to-many). Then use no more than 350 words, including terminology from the ["Acts of Communication,"](https://bright.uvic.ca/d2l/le/lessons/358717/topics/2968976) ["Means of Communication,"](https://bright.uvic.ca/d2l/le/lessons/358717/topics/2971119) and ["Levels of Communication"](https://bright.uvic.ca/d2l/le/lessons/358717/topics/2974588) handouts, to explain the subtle differences between the two communications. Don't forget to attach your audio file so I can access it.
 
-4\. Audiences do not always interpret many-to-one communications as sources intended them. Readers, viewers, and listeners are not always passive consumers. They may actively participate in communication by rejecting a message or negotiating with elements of it. Take a minute to *demonstrate* how you actively participated in a many-to-one communication. 
+**Prompt 4**. Audiences do not always interpret many-to-one communications as sources intended them. Readers, viewers, and listeners are not always passive consumers. They may actively participate in communication by rejecting a message or negotiating with elements of it. Take a minute to *demonstrate* how you actively participated in a many-to-one communication. 
 
 Identify an advertisement you interpreted against the grain and then save it, record it, or copy the URL for it. Next, use no more than 350 words, including terminology from the ["Forms of Communication"](https://bright.uvic.ca/d2l/le/lessons/358717/topics/2980938) and ["Models of Communication"](https://bright.uvic.ca/d2l/le/lessons/358717/topics/2985287) handouts, to share 1) the advertisement's intended message, 2) a context in which it was encoded, 3) a context in which you decoded it, 4) your negotiated or opposing interpretation of it, 5) the kind of feedback you provided, and 6) the channel or form of communication you used to provide that feedback. Don't forget to attach or embed the advertisement so I can access it.
 
-5\. Miscommunication is arguably the most common type of communication, partly because no communication is somehow free of noise. Take a minute to *record* some noises. 
+**Prompt 5**. Miscommunication is arguably the most common type of communication, partly because no communication is somehow free of noise. Take a minute to *record* some noises. 
 
 Create 30-90 seconds of video or audio to record two noises you frequently encounter during your everyday communications. They should correspond with two different categories of noise found in the "Miscommunication" handout. Then use no more than 350 words, including terminology from the "Miscommunication" handout, to share 1) the two categories of noise you identified, 2) descriptions of the two noises, 3) how you personally experience each noise, and 4) what each tells us about what people want or expect from everyday communication. 
 
