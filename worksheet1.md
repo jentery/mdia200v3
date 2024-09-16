@@ -35,7 +35,7 @@ Find some user-generated content on a media platform and copy the URL for it. Th
 
 (User-generated content is original content created by an individual and not by their employer or an organization.)
 
-**Prompt 2**. According to [WebAIM's 2023 report](https://webaim.org/projects/million/#alttext), "data show that one may expect over one third of the images on popular home pages to have missing, questionable, or repetitive alternative text." Take a minute to *write alt text* for an image.
+**Prompt 2**. According to [WebAIM's 2023 report](https://webaim.org/projects/million/#alttext), "data show that one may expect over one third of the images on popular home pages to have missing, questionable, or repetitive alternative text." Take a minute to *write* alt text for an image.
 
 Find an image online of two or more people communicating. Now copy the URL for the page on which that image appears. Then use no more than 350 words, including terminology from the ["Acts of Communication"](https://bright.uvic.ca/d2l/le/lessons/358717/topics/2968976) and ["Senses of Communication"](https://bright.uvic.ca/d2l/le/lessons/358717/topics/2969015) handouts, to write alt text for the image. Next, please explain the critical decisions you made to 1) account for the image's context on the page and 2) describe the image's visual and nonverbal elements for someone else to hear. Please 1) include your alt text in quotation marks to distinguish it from the rest of your response and 2) paste the page's URL into your response. That way, I can access it.
 
