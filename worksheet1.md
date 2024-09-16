@@ -84,6 +84,6 @@ Please submit a DOCX, ODT, PAGES, or PDF file containing your answers and refere
 
 ## When to Submit It
 
-A response to Worksheet 1 is due by 10am on Thursday, September 26th. 
+A response to Worksheet 1 is due by 10am on Thursday, September 26th. There is, however, a grace period, which also accounts for the statutory holiday (National Day for Truth and Reconciliation) on Monday, September 30th. 
 
-I will deduct five points for every business day I receive Worksheet 1 after 10am on Tuesday, October 1st. I will close the submission portal at 10am on Thursday, October 10th and cannot accept any submissions after the portal is closed.
+I will, therefore, deduct five points for every business day I receive Worksheet 1 after 10am on Tuesday, October 1st. I will close the submission portal at 10am on Thursday, October 10th and cannot accept any submissions after the portal is closed.
