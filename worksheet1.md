@@ -51,7 +51,7 @@ Identify an advertisement you interpreted against the grain and then save it, re
 
 **Prompt 5**. Miscommunication is arguably the most common type of communication, partly because no communication is somehow free of noise. Take a minute to *record* some noises. 
 
-Create 30-90 seconds of video or audio to record two noises you frequently encounter during your everyday communications. They should correspond with two different categories of noise found in the "Miscommunication" handout. Then use no more than 350 words, including terminology from the "Miscommunication" handout, to share 1) the two categories of noise you identified, 2) descriptions of the two noises, 3) how you personally experience each noise, and 4) what each tells us about what people want or expect from everyday communication. 
+Use 30-90 seconds of video or audio to record two noises you frequently encounter during your everyday communications. They should correspond with two different categories of noise found in the "Miscommunication" handout. Then use no more than 350 words, including terminology from the "Miscommunication" handout, to share 1) the two categories of noise you identified, 2) descriptions of the two noises, 3) how you personally experience each noise, and 4) what each noise tells us about what people want or expect from everyday communication. 
 
 (Attending to what people want or expect from everyday communication reveals the values of communication: what's "unwanted," for instance.)
 
