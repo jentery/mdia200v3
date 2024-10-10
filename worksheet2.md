@@ -33,7 +33,7 @@ Most of the prompts ask you to create media. Please attach your audio, image, an
 
 Use terminology from the ["Images"](https://bright.uvic.ca/d2l/le/lessons/358717/topics/3000033) and ["Comics"](https://bright.uvic.ca/d2l/le/lessons/358717/topics/3000078) handouts to annotate *one* page of a comic of your choice. Fill the margins and gutters of the comic with descriptions of what you see. Then use no more than 350 words to 1) describe your annotations, 2) explain how you organized them on the page, and 3) tell me what you learned about the craft of comics and images from this exercise. You're welcome to use software to annotate the page, or you can print it and annotate it manually. Just don't forget to attach the annotations to your submission as an image file.  
 
-Stuck? Looking for ideas and examples? Check out [these annotations](https://spinweaveandcut.com/wp-content/uploads/2019/08/vis-analysis-examples-smaller.pdf) from Nick Sousanis's comics classes in 2015-18. Note how many of them are colour-coded, include a legend, and place the comic on a larger canvas or piece of paper for the sake of annotation.  
+Stuck? Looking for ideas? Check out [these examples](https://spinweaveandcut.com/wp-content/uploads/2019/08/vis-analysis-examples-smaller.pdf) from Nick Sousanis's comics classes in 2015-18. Note how many of them are colour-coded, include a legend, and place the comic on a larger canvas or piece of paper for the sake of annotation.  
 
 You're welcome to annotate a page of Adrian Tomine's ["Translated, From the Japanese"](https://bright.uvic.ca/d2l/le/lessons/358717/topics/2996877) for this exercise. We studied it in class. You're also welcome to annotate a spread (two pages) instead of a single page. 
 
