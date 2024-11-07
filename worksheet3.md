@@ -37,7 +37,7 @@ Use no more than 350 words, including terminology from the ["Effects"](https://b
 
 2\. Identify a subculture that you care about and then capture it in a representative photo or video. Include that photo or video in your response.
 
-Use no more than 350 words, including terminology from the "Culture" handout and "Media" and "Communication" modules, to: 1) explain why you care about this subculture, 2) describe its style, values, and public impression, 3) explain how it expresses its style and values through media, and 4) tell me what's subcultural about its habits and content.
+Use no more than 350 words, including terminology from the ["Culture"](https://bright.uvic.ca/d2l/le/lessons/358717/topics/3042278) handout and "Media" and "Communication" modules, to: 1) explain why you care about this subculture, 2) describe its style, values, and public impression, 3) explain how it expresses its style and values through media, and 4) tell me what's subcultural about its habits and content.
 
 *Do not select a subculture we discussed in class. Thank you.*
 
