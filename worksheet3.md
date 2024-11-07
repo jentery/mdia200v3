@@ -49,7 +49,7 @@ Use no more than 350 words, including terminology from the ["Culture"](https://b
 
 *A true clue helps players solve a puzzle. A red herring misleads or distracts them from solving the puzzle.* 
 
-5\. Identify a UVic program or community where you'd like to see change. Now, combine text with video, audio, or images to appeal for that change in a format of your choice. Then use no more than 350 words, including terminology from the "Persuasion" handout and "Media" and "Communication" modules, to describe: 1) the program or community to whom you're appealing, 2) the type(s) of rhetorical appeal(s) you're making for change, 3) the problem motivating the change you wish to see, 4) who would be affected most by the change, and 5) what you think it would take to convince the program or community to make the change. Don't forget to attach your media to your response. Thanks! 
+5\. Identify a UVic program or community where you'd like to see change. Now, combine text with video, audio, or images to appeal for that change in a format of your choice. Then use no more than 350 words, including terminology from the ["Persuasion"](https://bright.uvic.ca/d2l/le/lessons/358717/topics/3038430) handout and "Media" and "Communication" modules, to describe: 1) the program or community to whom you're appealing, 2) the type(s) of rhetorical appeal(s) you're making for change, 3) the problem motivating the change you wish to see, 4) who would be affected most by the change, and 5) what you think it would take to convince the program or community to make the change. Don't forget to attach your media to your response. Thanks! 
 
 ## Assessment 
 
