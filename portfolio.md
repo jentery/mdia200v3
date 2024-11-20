@@ -62,7 +62,7 @@ Do not use a platform other than Brightspace to submit, store, or share your mat
 
 Your portfolio is due by 10am on Thursday, December 12th.
 
-I will deduct five points for every business day (excluding holidays and weekends) that I receive your portfolio after Friday, December 13th at 10am. I will close the submission portal at 10am on Wednesday, December 18th at 10am and cannot accept any submissions after the portal is closed. Thank you for understanding.
+I will deduct five points for every business day (excluding holidays and weekends) that I receive your portfolio after Friday, December 13th, at 10am. I will close the submission portal at 10am on Wednesday, December 18th, and cannot accept any submissions after the portal is closed. Thank you for understanding.
 
 ## Appendix A 
 
