@@ -54,7 +54,7 @@ The degree to which your response:
 
 ## What to Submit 
 
-Please submit a DOCX, ODT, PAGES, PDF, MP4, or MOV file containing your response. 
+Please submit a DOCX, ODT, PAGES, PDF, MP4, or MOV file containing your response. You are also welcome to attach media files to your submission in Brightspace. 
 
 Do not use a platform other than Brightspace to submit, store, or share your materials. 
 
