@@ -34,7 +34,7 @@ Tell someone you know what you learned in this course by sharing samples of your
 
 Your response to this prompt should be *synthetic*. Avoid lists and point form. Construct a narrative or theme that brings the material together in a way that would engage your interlocutor on an interpersonal, one-to-one level. The response should be more about you and your learning than the course itself, and it should sound like part of a dialogue rather than an advertisement for MDIA 200. 
 
-You needn't name, describe, photography, or record your interlocutor; however, I should be able to infer *who they are to you* based on how you communicate with them in response to this prompt. Use references and language that make that relationship clear. 
+You needn't name, describe, photograph, or record your interlocutor; however, I should be able to infer *who they are to you* based on how you communicate with them in response to this prompt. Use references and language that make that relationship clear. 
 
 ## Assessment 
 
