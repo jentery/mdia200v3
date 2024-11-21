@@ -37,7 +37,7 @@ Some of the prompts ask you to create media. Please attach your audio, image, an
 
 4\. Select a piece of fanwork, such as fanfiction, fanart, fanvids, fanzines, or podfic, that interests you. Then use no more than 350 words, including terminology from the "Participation" handout and ["Communication"](https://jentery.github.io/mdia200v3/#module-1-communication) and ["Media"](https://jentery.github.io/mdia200v3/#module-2-media) modules, to explain what makes the fanwork 1) participatory and 2) transformative. Please include a URL for the fanwork or attach it to your submission. 
 
-5\. *A response to this prompt is required.* I asked you to attend a UVic Libraries workshop, an Internet Archive workshop, or Candis Callison's talk on "News from the Global North" this term. Please use no more than 350 words to 1) tell me what you learned, 2) reflect on what you learned, and 3) share documentation of your attendance or participation.  
+5\. *A response to this prompt is required.* I asked you to attend a UVic Libraries workshop, an Internet Archive workshop, or Candis Callison's talk on "News from the Global North" this term. Please use no more than 350 words to 1) tell me what you learned and 2) reflect on what you learned.
 
 ## Assessment 
 
